@@ -1,0 +1,36 @@
+template:
+  url:  https://github.com/CouscousPHP/Template-Light
+
+baseUrl: http://andipanic.github.io/shortstories
+
+github:
+  user: andipanic
+  repo: shortstories
+
+title: Short Stories
+subTitle: by Andrew Blankfield
+
+menu:
+  items:
+    home:
+      text: Introduction
+      relativeUrl: index.html
+    tbitc:
+      text: The Boy In The Castle
+      relativeUrl: the_boy_in_the_castle.html
+    mtrs:
+      text: Mancey The Racist Squirelle
+      relativeUrl: mancey_the_racist_squirelle.html
+    aatg:
+      text: Alfred and The Genie
+      relativeUrl: alfred_and_the_genie.html
+    rtr:
+      text: Roger The Robot
+      relativeUrl: roger_the_robot.html
+    totm:
+      text: Tale of Terrance Marmalade
+      relativeUrl: tale_of_terrance_marmalade.html
+    risk:
+      text: Risk The Rat
+      relativeUrl: risk_the_rat.html
+    
