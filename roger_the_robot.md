@@ -1,4 +1,4 @@
-#Roger the Robot
+# Roger the Robot
 
 Once there was a little girl named Cynthia.  Cynthia was an ugly girl.  She was so ugly that her parents bannished her to a barren field filled with bits of scrap metal and other rubbish.  Her most ugly feature was her unibrow, which covered most of her face.
 
@@ -14,4 +14,4 @@ One day Cynthia found Roger had disappeared and she was in desperate need of a g
 
 Cynthia screamed in agony.  His tweezers were gone.  She fell into a deep, deep, rage.  "You are the worst friend in the entire world!"  She screamed as she pulled out his batteries.
 
-####The End
+#### The End

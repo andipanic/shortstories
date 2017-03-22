@@ -1,4 +1,4 @@
-#The Tale of Terrance Marmalade
+# The Tale of Terrance Marmalade
 
 Terrance loved women.  All women.  Any shape and size you could imagine.  Skinny, tall, fat, thin, big, blocky, didn't matter to Terrance!  In his eyes, all women were equal and that equality meant beauty.
 
@@ -18,4 +18,4 @@ One day while shopping for socks - Terrance also loved socks, but that's another
 
 Terrance was crushed.  Absolutely pulverized.  For the first time in his life, Terrance Marmalade had found himself in a jam.
 
-####The End.
+#### The End.

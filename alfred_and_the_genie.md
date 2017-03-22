@@ -1,4 +1,4 @@
-#Alfred and the Genie 
+# Alfred and the Genie 
 
 Alfred was a daft boy.  The kind who couldn't tell the difference between his left hand or right hand unless he made 'L' shapes with both.  One day while walking to his friend Jimmy's house, Alfred came upon a Genie's lamp at a fork in the road. 
 
@@ -20,4 +20,4 @@ Before the Genie could get a word out Alfred said, "Hey Genie!  Do you know wher
 
 And they both stare at each other perplexed.
 
-####The End.
+#### The End.

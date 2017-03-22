@@ -1,4 +1,4 @@
-#The Boy In The Castle
+# The Boy In The Castle
 
 Once there was a boy who lived in the largest castle in all the land.  He was a nice boy but he had no friends or family.  It made the boy very sad to realize he was all alone.  All the boy had to occupy his time where his crops, which he tended to daily.  However, his crops were not enough.  The boy longed for a friend "a companion and such," as he would say to himself.
 
@@ -10,4 +10,4 @@ The boy stop crying and shouted "No! I am a man! Men do not cry!"  And he took u
 
 The boy and the maiden live together for some time until money drove them apart and they died of old age.
 
-####The End.
+#### The End.

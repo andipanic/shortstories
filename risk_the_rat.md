@@ -1,4 +1,4 @@
-#Risk The Rat
+# Risk The Rat
 
 Risk was a Rat.  More specifically, he was a Rat King.  This didn't mean that he had his own kingdom.  Nay, he was a rat made up of multiple rats stuck together at the tail.  Most would think this to be an inconvienience, but not for Risk!  Risk loved to play Risk, and no part of Risk could say no to a good game of Risk.
 
@@ -10,4 +10,4 @@ Surprisingly, none of the Risks faught for America.  However, the last Risk was 
 
 Many believe this is how the black plague was spread.
 
-####The End.
+#### The End.

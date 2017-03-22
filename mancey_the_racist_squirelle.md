@@ -1,4 +1,4 @@
-#Mancey The Racist Squirelle
+# Mancey The Racist Squirelle
 
 Once upon a time there was a toad named Joachim Wigberht.  Joachim loved making friends.  He had a habit of befriending any creature he came across.  The only problem Joachim had was that he was color blind and deathly afraid of the color grey.  This rarely phased him though, for "all the colors of the rainbow wont make me a loveable person."  He would say to himself quite often.
 
@@ -10,4 +10,4 @@ On this afternoon, he was headed to visit his friends the ants who Mancey really
 
 "I hope they turn grey!"  Shouted Mancey in reply.
 
-####The End.
+#### The End.
